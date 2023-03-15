@@ -1,9 +1,9 @@
-<h4 align="left">Desenvolvedor de software</h4><span> inicialmente formado em engenharia mecânica.</span>
+<p align="left"><strong>Desenvolvedor de software</strong> inicialmente formado em engenharia mecânica.</p>
 <p align="left">Após encontrar a engenharia de software, tenho buscado continuamente me aprofundar no conhecimento dos fundamentos da ciência da computação e das últimas tecnologias no âmbito Full Stack.</p>
 
 ###
 
-<h4 align="left">📚 Pós-graduando em: Engenharia de Software, na PUC Minas</h4>
+<p align="left">📚 <strong>Pós-graduando em: Engenharia de Software, na PUC Minas></strong></p>
 
 ###
 
