@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">📚 <strong>Pós-graduando em: Engenharia de Software, na PUC Minas></strong></p>
+<p align="left">📚 <strong>Pós-graduando em Engenharia de Software, na PUC Minas</strong></p>
 
 ###
 
