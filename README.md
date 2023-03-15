@@ -1,4 +1,5 @@
-<p align="left">Desenvolvedor de software inicialmente formado em engenharia mecânica. <br><br>Após encontrar a engenharia de software, tenho buscado continuamente me aprofundar no conhecimento dos fundamentos da ciência da computação e das últimas tecnologias no âmbito Full Stack.</p>
+<h4 align="left">Desenvolvedor de software</h4><span> inicialmente formado em engenharia mecânica.</span>
+<p align="left">Após encontrar a engenharia de software, tenho buscado continuamente me aprofundar no conhecimento dos fundamentos da ciência da computação e das últimas tecnologias no âmbito Full Stack.</p>
 
 ###
 
@@ -34,8 +35,8 @@
 ###
 
 <p align="left">
-  <a href="https://buchalla.dev" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="40" width="52" alt="javascript logo"  /></a>
-  <a href="https://linkedin.com/in/developer-guilherme-buchalla-ferreira" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="52" alt="javascript logo"  /></a>
+  <a href="https://buchalla.dev" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  alt="personal website link"  /></a>
+  <a href="https://linkedin.com/in/developer-guilherme-buchalla-ferreira" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin link"  /></a>
 </p>
   
 ###
