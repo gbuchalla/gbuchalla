@@ -3,11 +3,11 @@
 
 ###
 
-<p align="left">📚 <strong>Pós-graduando em Engenharia de Software, na PUC Minas</strong></p>
+<p align="left">📚 <strong>Pós-graduando em Engenharia de Software pela PUC Minas</strong></p>
 
 ###
 
-<p align="left">🌱Currently learning: Laravel and VueJS</p>
+<p align="left">🌱Currently learning: Laravel, MySQL and VueJS</p>
 
 ###
 
