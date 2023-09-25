@@ -1,9 +1,9 @@
-<p align="left"><strong>Desenvolvedor de software</strong> inicialmente formado em engenharia mecânica.</p>
-<p align="left">Após encontrar a engenharia de software, tenho buscado continuamente me aprofundar no conhecimento dos fundamentos da ciência da computação e das últimas tecnologias no âmbito Full Stack.</p>
+<!--  <p align="left"><strong>Desenvolvedor de software</strong> inicialmente formado em engenharia mecânica.</p>-->
+<p align="left"><strong>Full Stack developer</strong> experienced in <strong>data analysis</strong> with an educational background in mechanical and software engineering.</p>
 
 ###
 
-<p align="left">📚 <strong>Pós-graduando em Engenharia de Software pela PUC Minas</strong></p>
+<p align="left">📚 <strong>Postgraduate software engineering student at Puc Minas</strong></p>
 
 ###
 
