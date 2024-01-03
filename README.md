@@ -1,5 +1,5 @@
 <!--  <p align="left"><strong>Desenvolvedor de software</strong> inicialmente formado em engenharia mecânica.</p>-->
-<p align="left"><strong>Full Stack developer</strong> experienced in <strong>data analysis</strong> with an educational background in mechanical and software engineering.</p>
+<p align="left"><strong>Full Stack developer</strong> experienced in <strong>data analysis</strong> with an educational background in software and mechanical engineering.</p>
 
 ###
 
