@@ -1,16 +1,14 @@
-<!--  <p align="left"><strong>Desenvolvedor de software</strong> inicialmente formado em engenharia mecânica.</p>-->
-<!--<p align="left"><strong>Full Stack developer</strong> experienced in <strong>data analysis</strong> with an educational background in software and mechanical engineering.</p>-->
 
-<p>👨‍💻 Full stack software developer</p>
-<p>📊 Data analytics professional</p>
-<p>🎓 Postgraduate in software engineering, bachelor's in mechanical engineering</p>
-<br>
-
-<!--<p align="left">📚 <strong>Postgraduate software engineer, mechanical engineer student at Puc Minas</strong></p> -->
+<p align="left"><strong> Software development</strong> and <strong>data science</strong> professional. </strong> </p><br><!--with an academic background in software and mechanical engineering.</p> -->
 
 ###
 
-<!-- <p align="left">🌱Currently learning: Laravel, MySQL and VueJS</p> -->
+<!--<p align="left">📚 Mechanical and software engineering academic background</p>-->
+
+
+###
+
+<!-- <p align="left">🌱Currently learning: Embedded Systems, CI/CD</p> -->
 
 ###
 
