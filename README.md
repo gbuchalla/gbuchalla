@@ -1,9 +1,12 @@
 <!--  <p align="left"><strong>Desenvolvedor de software</strong> inicialmente formado em engenharia mecânica.</p>-->
-<p align="left"><strong>Full Stack developer</strong> experienced in <strong>data analysis</strong> with an educational background in software and mechanical engineering.</p>
+<!--<p align="left"><strong>Full Stack developer</strong> experienced in <strong>data analysis</strong> with an educational background in software and mechanical engineering.</p>-->
 
-###
+<p>👨‍💻 Full stack software developer</p>
+<p>📊 Data analytics professional</p>
+<p>🎓 Postgraduate in software engineering, bachelor's in mechanical engineering</p>
+<br>
 
-<p align="left">📚 <strong>Postgraduate software engineering student at Puc Minas</strong></p>
+<!--<p align="left">📚 <strong>Postgraduate software engineer, mechanical engineer student at Puc Minas</strong></p> -->
 
 ###
 
@@ -50,7 +53,7 @@
 ###
 
 <p align="left">
-  <a href="https://buchalla.dev" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  alt="personal website link"  /></a>
+<!--   <a href="https://buchalla.dev" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"  alt="personal website link"  /></a> -->
   <a href="https://linkedin.com/in/developer-guilherme-buchalla-ferreira" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin link"  /></a>
 </p>
   
